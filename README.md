@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pis3120)](https://github.com/pis3120/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pis3120&show_icons=true&theme=radical)
 
-![Github Graph](https://activity-graph.herokuapp.com/graph?username=pis3120&area=false&theme=xcode&hide_border=true)
+// ![Github Graph](https://activity-graph.herokuapp.com/graph?username=pis3120&area=false&theme=xcode&hide_border=true)
